@@ -1,0 +1,1 @@
+# day-one-junos-salt
