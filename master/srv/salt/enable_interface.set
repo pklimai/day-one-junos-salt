@@ -1,0 +1,1 @@
+delete interfaces {{ template_vars['interface_name'] }} disable

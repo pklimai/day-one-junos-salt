@@ -1,0 +1,10 @@
+engines:
+  - junos_syslog:
+      port: 10514
+
+reactor:
+  - 'jnpr/syslog/*/UI_COMMIT_COMPLETED':
+    - salt://reactor/react_to_commit.sls
+
+runner_dirs:
+  - /srv/salt/runners

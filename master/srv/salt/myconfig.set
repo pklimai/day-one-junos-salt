@@ -1,0 +1,2 @@
+set system syslog host 10.254.0.200 any any
+set system syslog host 10.254.0.200 port 10514
