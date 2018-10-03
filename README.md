@@ -1,4 +1,4 @@
-# day-one-junos-salt
+# Day One: Automating Junos with Salt
 
 A repository for code contained in "Day One: Automating Junos with Salt" book, currently in press.
 
